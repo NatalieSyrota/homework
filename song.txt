@@ -1,4 +1,4 @@
-Spades take up leaves
+﻿Spades take up leaves
 No better than spoons,
 And bags full of leaves
 Are light as balloons.
@@ -27,3 +27,5 @@ Next to nothing for use,
 But a crop is a crop,
 And who’s to say where
 The harvest shall stop?
+
+1-feature commit
